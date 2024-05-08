@@ -23,6 +23,7 @@ namespace HospitalPaymentSystem.Web.Controllers
         public IActionResult RegisterPatient()
         {
             return View();
+
         }
 
         [HttpPost]
